@@ -1,2 +1,2 @@
 # git-notes-Rul
-first GitHub trial
+first GitHub trial 'n stuff
